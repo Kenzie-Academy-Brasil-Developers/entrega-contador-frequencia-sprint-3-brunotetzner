@@ -46,5 +46,5 @@ for (let i = 0; i < typedText.length; i++) {
    
     words.appendChild(span); 
  }
- 
  });
+ 
